@@ -1,6 +1,7 @@
 # Consulta de CEP com PHP e ViaCEP API
 
-![GitHub](https://img.shields.io/github/license/JefersonGuimaraes/consulta-cep)
+![GitHub License](https://img.shields.io/github/license/jeferson-guimaraes/consulta-cep)
+
 
 Este é um projeto simples em PHP que permite consultar informações de endereços brasileiros através da API ViaCEP. A API ViaCEP fornece dados detalhados sobre endereços a partir de um CEP.
 
